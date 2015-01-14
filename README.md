@@ -3,14 +3,13 @@
 /**
  * @name jhandler.js
  * @author Pedro Gregorio - pedro.temsenha@gmail.com
- * @version 1.1
- * @license by me a beer
+ * @version 1.0
  * @description
  *
  * This little framework and its plugins were made
  * without any intention to make money, if you want
  * to use it, be free, if yout want to send me suggests
- * or another things(like beer), mail me at pedro.temsenha@gmail.com,
+ * or another things, mail me at pedro.temsenha@gmail.com,
  * your suggests are welcome,
  *
  * You can choose join all files in one, i just keep it separated
